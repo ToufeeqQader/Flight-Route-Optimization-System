@@ -1,0 +1,3 @@
+Origin,Destination,Distance,BaseCost,Operational
+CDG,JFK,5833.48,1000,1
+LAX,JFK,3974.34,1000,1

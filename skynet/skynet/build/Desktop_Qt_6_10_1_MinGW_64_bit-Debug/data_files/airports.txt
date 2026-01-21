@@ -1,0 +1,4 @@
+Code,Name,City,Country,Latitude,Longitude
+CDG,Charles de Gaulle,Paris,France,49.0097,2.5479
+JFK,John F Kennedy International,New York,USA,40.6413,-73.7781
+LAX,Los Angeles International,Los Angeles,USA,33.9416,-118.409
